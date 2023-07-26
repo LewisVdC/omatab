@@ -7,8 +7,21 @@ body {
   }
   h2 {
     text-align: left;
+    border-width: 1px;
+    border: solid;
+    border-style: outset;
+    width: fit-content;
+    padding: 0px 8px;
+    border-radius: 8px;
+  }
+  h2:hover {
+    border-style: inset;
   }
   h3 {
     text-align: left;
     
+  }
+  a {
+    text-decoration: none;
+    color:blue
   }
