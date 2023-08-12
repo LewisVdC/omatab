@@ -27,3 +27,12 @@ body {
     text-decoration: none;
     color:rgba(0, 0, 255)
   }
+
+
+    input
+{transition: 2s;
+  width:400px}
+    
+    input:focus
+{transition: 2s ;
+  width:800px}
