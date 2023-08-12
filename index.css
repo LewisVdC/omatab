@@ -31,8 +31,8 @@ body {
 
     input
 {transition: 2s;
-  width:400px}
+  width:400px;}
     
     input:focus
 {transition: 2s ;
-  width:800px}
+  width:800px;}
